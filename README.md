@@ -1,4 +1,0 @@
-# HOLA-MUNDO-
-MI PRIMER REPOSITORIO 
-Dulce García 
-Fecha 01/10/2020
